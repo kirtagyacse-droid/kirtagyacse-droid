@@ -2,12 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4,6,20&height=150&section=header&text=Hello%2C%20World!&fontSize=50&animation=fadeIn&fontY=38" width="100%"/>
 </div>
 
+<h3 align="center">Developer Metrics</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kirtagyacse-droid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirtagyacse-droid&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/badge/Contributions-76%20total-blueviolet?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Active%20Streak-3%20days-orange?style=flat-square&logo=fire&logoColor=orange" />
+  <img src="https://img.shields.io/badge/Main%20OS-Pop!__OS-blue?style=flat-square&logo=popos&logoColor=white" />
 </p>
 
 <h3 align="center">Tech Stack & Tools</h3>
