@@ -1,14 +1,9 @@
 name: Generate Snake
 
 on:
-  # Run automatically every 12 hours
   schedule:
     - cron: "0 */12 * * *" 
-  
-  # Allows you to manually run the job from the Actions tab any time
   workflow_dispatch:
-  
-  # Run on every push to the main branch
   push:
     branches:
       - main
@@ -18,12 +13,13 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
 
+    permissions:
+      contents: write
+
     steps:
-      # 1. Check out the repository
       - name: Checkout
         uses: actions/checkout@v4
 
-      # 2. Generate the snake SVG files
       - name: Generate the snake SVG files
         uses: Platane/snk@v3
         id: snake-gif
@@ -33,7 +29,6 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # 3. Push the generated SVG files to an output branch
       - name: Push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
