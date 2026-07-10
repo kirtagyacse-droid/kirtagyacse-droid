@@ -1,9 +1,32 @@
 ### 🏅 Certifications & Achievements
 
-[![CS50P Badge](https://img.shields.io/badge/CS50--Python-Harvard-crimson?style=for-the-badge&logo=harvard&logoColor=white)](https://cs50.harvard.edu/certificates)
+<table>
+  <tr>
+    <td>
+      <a href="https://cs50.harvard.edu/certificates">
+        <img src="https://img.shields.io/badge/CS50--Python-Harvard-crimson?style=for-the-badge&logo=harvard&logoColor=white" alt="CS50P Badge" />
+      </a>
+    </td>
+    <td>
+      <a href="https://www.coursera.org/specializations/machine-learning-introduction">
+        <img src="https://img.shields.io/badge/Machine--Learning-DeepLearning.AI-blue?style=for-the-badge&logo=coursera&logoColor=white" alt="ML Specialization Badge" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-*   **CS50's Introduction to Programming with Python** – Issued by HarvardX 
-    *   *Key focus areas:* Procedural and object-oriented programming, file management, exception handling, and unit testing via `pytest`.
+#### 🎓 DeepLearning.AI & Stanford University — Machine Learning Specialization
+*   **Supervised Machine Learning: Regression and Classification**
+    *   *Key topics:* Linear regression, logistic regression, gradient descent, regularization, and loss function optimization.
+*   **Advanced Learning Algorithms**
+    *   *Key topics:* Neural networks (TensorFlow), backpropagation, multiclass classification, decision trees, and ensemble methods (Random Forests, XGBoost).
+*   **Unsupervised Learning, Recommenders, Reinforcement Learning**
+    *   *Key topics:* K-means clustering, anomaly detection, collaborative filtering, content-based filtering, and Deep Q-Networks.
+
+---
+
+#### 🐍 HarvardX — CS50's Introduction to Programming with Python
+*   *Key focus areas:* Procedural and object-oriented programming, data validation, file I/O operations, and unit testing via `pytest`.
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,4,8&height=180&section=header&text=Hello%2C%20World!&fontSize=60&fontAlignY=40&animation=fadeIn" width="100%"/>
 </div>
