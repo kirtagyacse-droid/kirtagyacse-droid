@@ -1,3 +1,9 @@
+### 🏅 Certifications & Achievements
+
+[![CS50P Badge](https://img.shields.io/badge/CS50--Python-Harvard-crimson?style=for-the-badge&logo=harvard&logoColor=white)](https://cs50.harvard.edu/certificates)
+
+*   **CS50's Introduction to Programming with Python** – Issued by HarvardX 
+    *   *Key focus areas:* Procedural and object-oriented programming, file management, exception handling, and unit testing via `pytest`.
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,4,8&height=180&section=header&text=Hello%2C%20World!&fontSize=60&fontAlignY=40&animation=fadeIn" width="100%"/>
 </div>
