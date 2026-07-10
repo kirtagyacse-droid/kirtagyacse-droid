@@ -10,10 +10,14 @@
 
 <h3 align="center">⚡ Developer Core Metrics</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Contributions-76%20total-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF&color=161B22" />
-  <img src="https://img.shields.io/badge/Streak-3%20days-0D1117?style=for-the-badge&logo=fire&logoColor=FF5555&color=161B22" />
   <img src="https://img.shields.io/badge/Environment-Garuda%20OS-0D1117?style=for-the-badge&logo=garuda-linux&logoColor=00FFFF&color=161B22" />
 </p>
+
+<div align="center">
+  <a href="https://git.io/streak-svg">
+    <img src="https://readme-streak-stats.herokuapp.com/?user=kirtagyacse-droid&theme=dark&background=0D1117&ring=00F0FF&fire=FF5555&currStreakNum=00F0FF&sideLabels=true" alt="GitHub Streak" />
+  </a>
+</div>
 
 ---
 
