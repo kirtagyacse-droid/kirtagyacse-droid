@@ -10,12 +10,16 @@
 
 <h3 align="center">⚡ Developer Core Metrics</h3>
 <p align="center">
-  <img src="https://img.shields.io/github/commits-since/kirtagyacse-droid/kirtagyacse-droid/v1.0?color=161B22&label=Contributions&logo=github&logoColor=00F0FF&style=for-the-badge" alt="Contributions" />
   <img src="https://img.shields.io/badge/Environment-Garuda%20OS-0D1117?style=for-the-badge&logo=garuda-linux&logoColor=00FFFF&color=161B22" alt="Environment" />
 </p>
-<p align="center">
-  <img src="https://readme-streak-stats.herokuapp.com/?user=kirtagyacse-droid&type=badge&theme=dark&background=161B22&ring=00F0FF&fire=FF5555&currStreakNum=00F0FF" alt="Live Streak Badge" />
-</p>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kirtagyacse-droid&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=e2e8f0" alt="GitHub Stats" />
+</div>
+
+<div align="center" style="margin-top: 15px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kirtagyacse-droid&theme=dark&background=0D1117&ring=00F0FF&fire=FF5555&currStreakNum=00F0FF&sideLabels=true&hide_border=true" alt="GitHub Streak" />
+</div>
 
 ---
 
